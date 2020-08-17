@@ -1,0 +1,40 @@
+#footer{
+  height: 400px;
+  background: #173882;
+
+}
+
+#nhr{
+  left: 130px;
+  position: absolute;
+}
+
+#f1{
+  top: 120px;
+  position: absolute;
+  color: white;
+  font-family: Avenir;
+}
+
+
+#lst1 a{
+  margin-bottom: 15px;
+  color: white;
+  font-family: Avenir;
+}
+
+#lst2 a{
+  margin-bottom: 15px;
+  color: white;
+  font-family: Avenir;
+}
+
+#play{
+  margin-bottom: 8px;
+  width: 180px ;
+}
+
+#apl{
+  width: 180px ;
+}
+

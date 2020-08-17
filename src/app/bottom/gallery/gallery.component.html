@@ -1,0 +1,43 @@
+<div id="c1" class="ui container">
+  <br/>
+  <h1>CHAPTER</h1>
+</div>
+
+<div id="c2" class="container">
+
+
+  <div id="box" class="container" *ngFor="let image of images">
+
+    <img [src]="image.url" [alt]="image.name" >
+        <div class="text-block">
+          <h1 style="font-size: 1.1em">{{image.name}}</h1>
+          <h3>Discover More</h3>
+        </div>
+     </div>
+
+</div>
+
+
+
+
+  <!--
+<img src="assets/bottom/agra.png" alt="Agra" />
+<img src="assets/bottom/amd.png"  alt="Ahmedabad"  />
+<img src="assets/bottom/bangalore.png" alt="Bangalore" />
+<img src="assets/bottom/baroda.png"  alt="Baroda"  />
+<img src="assets/bottom/bhopal.png"  alt="Bhopal"  />
+<img src="assets/bottom/bhb.png"  alt="Bhubaneswar"  />
+
+-->
+
+
+
+<!--="{backgroundImage:'url(./images/rose.png)'}" >
+
+
+  <div    [ngStyle]="{backgroundImage: 'url(assets/bottom/agra.png)'}" >Agra</div>
+  <div   [ngStyle]="{backgroundImage: 'url(assets/bottom/agra.png)'}" >Agra</div>
+  <div  [ngStyle]="{backgroundImage: 'url(assets/bottom/agra.png)'}" >Agra</div>
+
+
+ -->

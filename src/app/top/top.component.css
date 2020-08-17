@@ -1,0 +1,43 @@
+#t1{
+  background: #E5F8FF;
+  height: 55px;
+  margin-bottom: 0px ;
+}
+
+#t2{
+  height: 150px;
+  margin-top: 0px ;
+  margin-bottom: 0px;
+
+}
+
+#btnholder{
+  padding-top: 60px;
+  right: -30px;
+}
+
+#t2p1{
+  padding-top: 60px;
+  font-size: 1.2em;
+  font-family: Avenir;
+  text-transform: uppercase;
+}
+
+
+
+#b1{
+  background: #00C853;
+  border-radius: 74px;
+}
+
+#b2{
+  border: 1px solid #173882;
+  box-sizing: border-box;
+  border-radius: 74px;
+}
+
+
+
+
+
+

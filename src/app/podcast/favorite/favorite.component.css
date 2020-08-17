@@ -1,0 +1,32 @@
+
+.row {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.container{
+  font-family: Avenir;
+}
+
+#main{
+  background-color: #f1f1f1;
+}
+
+.card {
+  float: left;
+  width: 33.333%;
+  padding: .75rem;
+  margin-bottom: 2rem;
+  border: 0;
+  zoom: 0.8;
+}
+
+.card > img {
+  margin-bottom: .75rem;
+}
+
+.card-text {
+  font-size: 85%;
+  padding-left: 80px;
+  bottom: 20px;
+}

@@ -1,0 +1,45 @@
+#t3{
+  height: 500px;
+}
+
+#t3a{
+  padding-left: 200px;
+  font-family: Avenir;
+  font-style: normal;
+}
+
+
+
+#para{
+  font-size: 1.2em;
+}
+
+#b3{
+  border: 1px solid #173882;
+  box-sizing: border-box;
+  border-radius: 61px;
+
+}
+
+#mic{
+  float: right;
+  margin-bottom: 10px;
+}
+
+#big{
+  zoom: 0.75;
+  float: right;
+  z-index: 3;
+  position: relative;
+}
+
+#circle{
+  zoom: 0.5;
+  position: relative;
+  left: 800px;
+  top: 600px;
+  z-index:2 ;
+}
+
+
+

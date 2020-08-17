@@ -1,0 +1,34 @@
+#c2 {
+  display: flex;
+  overflow-x: scroll;
+
+  zoom: 0.8;
+}
+
+#c1{
+  height: 100px;
+}
+
+#c2 div{
+  position: relative;
+}
+
+#c1 h1{
+  font-family: Avenir;
+}
+
+#box{
+
+}
+
+.text-block {
+  position: absolute;
+  bottom: 130px;
+  left: 20px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 40px;
+  font-family: Avenir;
+  text-transform: uppercase;
+}
